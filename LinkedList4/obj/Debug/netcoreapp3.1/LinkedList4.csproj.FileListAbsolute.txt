@@ -1,0 +1,13 @@
+D:\LinkedList\LinkedList4\bin\Debug\netcoreapp3.1\LinkedList4.exe
+D:\LinkedList\LinkedList4\bin\Debug\netcoreapp3.1\LinkedList4.deps.json
+D:\LinkedList\LinkedList4\bin\Debug\netcoreapp3.1\LinkedList4.runtimeconfig.json
+D:\LinkedList\LinkedList4\bin\Debug\netcoreapp3.1\LinkedList4.runtimeconfig.dev.json
+D:\LinkedList\LinkedList4\bin\Debug\netcoreapp3.1\LinkedList4.dll
+D:\LinkedList\LinkedList4\bin\Debug\netcoreapp3.1\LinkedList4.pdb
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.AssemblyInfoInputs.cache
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.AssemblyInfo.cs
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.csproj.CoreCompileInputs.cache
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.dll
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.pdb
+D:\LinkedList\LinkedList4\obj\Debug\netcoreapp3.1\LinkedList4.genruntimeconfig.cache
